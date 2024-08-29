@@ -1,0 +1,48 @@
+# NOTION
+NOTION_API_KEY = "secret_TVDBZM0lFFlZN4zbwRVQC4WBBkvH3psA89JWRezfQsj"
+BLOCK_ID = "89e064b204d64d76865eb5dc31d0da6d"
+
+
+class XANG_RON_95_III:
+    GIA_HIEN_TAI_BLOCK_ID = "051763e3-f74c-4b6d-809f-ad6ca667c6c9"
+    NGAY_CAP_NHAT_GAN_NHAT_BLOCK_ID = "2d73a275-9629-436a-ae96-357c953aae93"
+    SO_NGAY_CAP_NHAT_GAN_NHAT_BLOCK_ID = "8e6a1b0c-aa97-4097-93a4-d6ca73ae606e"
+    TINH_TRANG_BLOCK_ID = "e25cd982-44c8-40a9-b577-83cfd11ef318"
+
+
+class XANG_E5_RON_92_II:
+    GIA_HIEN_TAI_BLOCK_ID = "a9cce86f-0c3f-4aba-8709-2ad1ac9e5358"
+    NGAY_CAP_NHAT_GAN_NHAT_BLOCK_ID = "24d94f67-3dfe-42d1-b18b-4963c2e73eca"
+    SO_NGAY_CAP_NHAT_GAN_NHAT_BLOCK_ID = "04f58881-2ff4-49d8-9cd2-935eb9ef3eb7"
+    TINH_TRANG_BLOCK_ID = "f0de1b28-a49c-4b87-8a2b-c9df3ecf36fe"
+
+
+USER_CONTAINER_BLOCK_ID = "e6323e7c-5c61-4038-94dc-fc8c1faff8c8"
+MENTIONS_CONTAINER_BLOCK_ID = "efa05ba2-27c2-4e50-abb9-de9f08e2b0dc"
+
+LOG_BLOCK_ID = "09fde1c6-a551-4fa6-b8b0-ea2eff8a5492"
+
+# FORMAT
+DATE_FORMAT = r"%Y-%m-%d"
+
+# GOOGLE SCRIPT
+DATABASE_URL = r"https://script.google.com/macros/s/AKfycbyA6BjtAXgik9JgfkH1kPzYt3CL_06SChmSdhOVKP2vc3EZKt7Cr9R80wnKpxLeT2Vm5A/exec"
+
+# PREDICT
+DAYS_GAP_FOR_TRAIN = 1000
+PREDICT_LENGTH = 30
+# ARIMA 
+P = 20
+D = 1
+Q = 3
+# P = 1
+# D = 1
+# Q = 1
+
+
+# CRAWLER
+URL = 'https://www.pvoil.com.vn/truyen-thong/tin-gia-xang-dau'
+
+# Time run: UTC
+TIME_RUN = "20:00"
+# TIME_RUN = "08:15"
