@@ -1,6 +1,6 @@
 # NOTION
-NOTION_API_KEY = "secret_TVDBZM0lFFlZN4zbwRVQC4WBBkvH3psA89JWRezfQsj"
-BLOCK_ID = "89e064b204d64d76865eb5dc31d0da6d"
+NOTION_API_KEY = ""
+BLOCK_ID = ""
 
 
 class XANG_RON_95_III:
@@ -26,7 +26,7 @@ LOG_BLOCK_ID = "09fde1c6-a551-4fa6-b8b0-ea2eff8a5492"
 DATE_FORMAT = r"%Y-%m-%d"
 
 # GOOGLE SCRIPT
-DATABASE_URL = r"https://script.google.com/macros/s/AKfycbyA6BjtAXgik9JgfkH1kPzYt3CL_06SChmSdhOVKP2vc3EZKt7Cr9R80wnKpxLeT2Vm5A/exec"
+DATABASE_URL = r""
 
 # PREDICT
 DAYS_GAP_FOR_TRAIN = 1000
